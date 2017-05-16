@@ -1,0 +1,142 @@
+.header {
+ background: url("https://upload.cc/i/9fQUgG.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header h1.logo {
+  font-family: "signpainter";
+  margin-top: 5px;
+  text-align: center;
+  margin-bottom: 0;
+  font-weight: 1;
+  font-size: 28px;
+  font-align: center;
+}
+.header h1.logo a {
+  color: #fff;
+}
+
+.header .main-nav .navbar-toggle {
+  margin-right: 0;
+  margin-top: 0;
+  background: none;
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
+
+.header .main-nav .navbar-toggle .icon-bar {
+  background-color: rgba(255, 255, 255, 0.6);
+  height: 3px;
+}
+.header .main-nav .navbar-toggle:hover .icon-bar {
+  background-color: #fff;
+}
+
+#box {
+background: #023e59; 
+background: -webkit-linear-gradient(to left, #085f75, #034260, #035355); 
+background: linear-gradient(to left, #085f75, #034260, #035355); 
+  padding: 1%;
+  margin: 30px auto;
+  margin-top: 10px;
+}
+
+#box3 {
+background: none;
+  margin-bottom: 30px auto;
+  margin:auto;
+}
+
+#box2 {
+background: rgba(180,180,180,0.15);
+  padding: 1%;
+  margin: 30px auto;
+  margin-bottom: 50px 60px;
+}
+
+button1 {
+    background: rgba(180,180,180,0);
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+}
+button2 {
+    background: rgba(180,180,180,0);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+  margin: 40px;
+
+}
+button3 {
+    background: rgba(180,180,180,0);
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+  float: right;
+}
+
+body{
+  background-color: black;
+}
+
+#circleCanvas{
+  display:block;
+  max-width: 90%;
+}
+
+#container{
+  max-width:80%;
+  margin: 20px auto;
+  margin-bottom: 5px;
+}
+
+#finish{
+  color: rgba(210,210,210,0.8);
+  text-align: center;
+  font-size: 12px;
+  padding: 1px;
+}
+.buttonArea {
+  margin: 20px auto;
+  margin-top: 5px;
+  text-align: center;
+}
+.fakeButton {
+background: #023e59; 
+background: -webkit-linear-gradient(to left, #085f75, #034260, #035355); 
+background: linear-gradient(to left, #085f75, #034260, #035355); 
+  padding: 8px 55px;
+  border-radius: 15px;
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.fakeButton:hover {
+  background: #1b788e;
+  color: #fff;
+  text-decoration: none;
+}
+.ma2 {
+    max-width: 100%;
+  max-height: 100%;
+  display: block;
+    margin: 5px auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
